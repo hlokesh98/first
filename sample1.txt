@@ -1,2 +1,3 @@
 Hi how are you
 this is git 
+today is 7/15/23
