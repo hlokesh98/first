@@ -5,5 +5,10 @@ class HelloWorld {
         System.out.println("Hegde!");
         System.out.println("i love you!");
         System.out.println("i love you pooja hegde!");
+        System.out.println("i love you pooja hegde!");
+        System.out.println("i love you pooja hegde!");
+        System.out.println("i love you pooja hegde!");
+        System.out.println("i love you pooja hegde!");
+        System.out.println("i love you pooja hegde!");
     }
-}
+    }
