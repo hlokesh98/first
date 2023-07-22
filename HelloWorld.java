@@ -3,12 +3,7 @@ class HelloWorld {
         System.out.println("Hello, World!");
         System.out.println("pooja!");
         System.out.println("Hegde!");
-        System.out.println("i love you!");
-        System.out.println("i love you pooja hegde!");
-        System.out.println("i love you pooja hegde!");
-        System.out.println("i love you pooja hegde!");
-        System.out.println("i love you pooja hegde!");
-        System.out.println("i love you pooja hegde!");
-        System.out.println("i love you pooja hegde!");
+        System.out.println("Today is 7/22/2023!");
+        
     }
     }
